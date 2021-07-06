@@ -1,0 +1,15 @@
+html {
+	background-color: grey;
+	text-align: center;
+}
+
+
+h1{
+	color: red;
+	font-family: cursive;
+}
+img {
+	width: 250px;
+	height: 250px;
+	margin: 30px;
+	padding: 10px;
